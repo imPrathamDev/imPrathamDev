@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Sharma</h1>
-<h3 align="center">A passionate frontend & backend developer from India who is always interested to learn new technologires. I am Javascript, TypeScript, ReactJS, NodeJS & NextJS Developer.</h3>
+<h3 align="center">Full-stack developer based in India, specializing in JavaScript, TypeScript, ReactJS, NodeJS, and NextJS. Committed to continuous learning and staying current with emerging technologies. Passionate about creating efficient, scalable web applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/imPrathamDev" target="blank"><img src="https://img.shields.io/twitter/follow/imprathamdev?logo=twitter&style=for-the-badge" alt="imprathamdev" /></a> </p>
 
