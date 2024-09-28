@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/imPrathamDev" target="blank"><img src="https://img.shields.io/twitter/follow/imprathamdev?logo=twitter&style=for-the-badge" alt="imprathamdev" /></a> </p>
 
-- 🌱 I’m currently learning **AWS & Dart**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **ReactJS, NextJS & Tailwind CSS**
+- 💬 Ask me about **ReactJS, Remix, NextJS & Tailwind CSS**
 
 - 📫 How to reach me **pratham.sharma2105@gmail.com**
 
