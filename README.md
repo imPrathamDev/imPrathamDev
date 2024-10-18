@@ -17,3 +17,5 @@
 <a href="https://instagram.com/imprathamdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="impratham.dev" height="30" width="40" /></a>
 <a href="https://dribbble.com/imPrathamDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="imprathamdev" height="30" width="40" /></a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imPrathamDev&theme=dark)](https://git.io/streak-stats)
